@@ -1,5 +1,5 @@
 /**
-* @description It contains implementation logic transform an array to specified number of groups.
+* @description It contains implementation logic to transform an array to specified number of groups.
 * e.g [1,2,3,4,5] to [[1,2],[3,4],[5]]
 * @param {array} arr
 * @param {number} groups
