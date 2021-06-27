@@ -4,7 +4,7 @@
 
 This command-line application is used to break an array into smaller sub-groups.
 
-Example: Breaking [1, 2 , 3, 4, 5] to 3 groups will result in [[1, 2], [3, 4],[5]]
+example: Breaking [1, 2 , 3, 4, 5] to 3 groups will result in [[1, 2], [3, 4],[5]]
 
 It propmts for 2 user inputs:
 
