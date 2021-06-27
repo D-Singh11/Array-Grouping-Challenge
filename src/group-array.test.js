@@ -17,7 +17,7 @@ test("should split [1, 2, 3, 4, 5] into 3 groups ", () => {
 
 
 test('should split [1, 2, 3, 4] into 3 groups ', () => {
-    result = arrayBreaker([1, 2, 3, 4], 3);
+    result = arrayArrayElements([1, 2, 3, 4], 3);
 
     expect(result.length).toEqual(3);
 
@@ -33,7 +33,7 @@ test('should split [1, 2, 3, 4] into 3 groups ', () => {
 
 
 test('should split [1, 2, 3, 4, 5] into 4 groups ', () => {
-    result = arrayBreaker([1, 2, 3, 4, 5], 4);
+    result = arrayArrayElements([1, 2, 3, 4, 5], 4);
 
     expect(result.length).toEqual(4);
 
@@ -52,7 +52,7 @@ test('should split [1, 2, 3, 4, 5] into 4 groups ', () => {
 
 
 test('should split [1, 2, 3, 4, 5,6] into 4 groups ', () => {
-    result = arrayBreaker([1, 2, 3, 4, 5, 6], 4);
+    result = arrayArrayElements([1, 2, 3, 4, 5, 6], 4);
 
     expect(result.length).toEqual(4);
 
@@ -71,7 +71,7 @@ test('should split [1, 2, 3, 4, 5,6] into 4 groups ', () => {
 
 
 test('should split [1, 2, 3, 4, 5,6,7,8,9] into 5 groups ', () => {
-    result = arrayBreaker([1, 2, 3, 4, 5, 6, 7, 8, 9], 5);
+    result = arrayArrayElements([1, 2, 3, 4, 5, 6, 7, 8, 9], 5);
 
     expect(result.length).toEqual(5);
 
@@ -93,7 +93,7 @@ test('should split [1, 2, 3, 4, 5,6,7,8,9] into 5 groups ', () => {
 
 
 test('should split [1, 2, 3, 4, 5,6,7,8] into 5 groups ', () => {
-    result = arrayBreaker([1, 2, 3, 4, 5, 6, 7, 8], 5);
+    result = arrayArrayElements([1, 2, 3, 4, 5, 6, 7, 8], 5);
 
     expect(result.length).toEqual(5);
 
