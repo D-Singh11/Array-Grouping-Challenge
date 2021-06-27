@@ -4,12 +4,13 @@
 
 This command-line application is used to break an array into smaller sub-groups.
 
-It propmts for 2 user inputs to transform it accordingly:
+Example: Breaking [1, 2 , 3, 4, 5] to 3 groups will result in [[1, 2], [3, 4],[5]]
+
+It propmts for 2 user inputs:
 
 - elements of an array
 - number of groups
 
-Example: Breaking [1, 2 , 3, 4, 5] to 3 groups will result in [[1, 2], [3, 4],[5]]
 
 ### Psuedo-Code
 
