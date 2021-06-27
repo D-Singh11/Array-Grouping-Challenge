@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This commandline application is used to break an array into smaller sub-groups.
+This command-line application is used to break an array into smaller sub-groups.
 
 It propmts for 2 user inputs to transform it accordingly:
 
