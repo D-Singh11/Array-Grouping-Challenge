@@ -8,15 +8,10 @@
     "start": "node index.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/D-Singh11/Array-Grouping-Challenge.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/D-Singh11/Array-Grouping-Challenge/issues"
-  },
-  "homepage": "https://github.com/D-Singh11/Array-Grouping-Challenge#readme",
   "dependencies": {
     "jest": "^27.0.5",
     "prompt": "^1.1.0"
