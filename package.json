@@ -1,0 +1,24 @@
+{
+  "name": "array-grouping-challenge",
+  "version": "1.0.0",
+  "description": "Contains code to break an array into specified number of groups",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index,js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D-Singh11/Array-Grouping-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D-Singh11/Array-Grouping-Challenge/issues"
+  },
+  "homepage": "https://github.com/D-Singh11/Array-Grouping-Challenge#readme",
+  "dependencies": {
+    "jest": "^27.0.5",
+    "prompt": "^1.1.0"
+  }
+}
